@@ -20,10 +20,8 @@ app.use(express.json());
 
 // Enable CORS for the frontend origin
 app.use(cors({
-  origin: process.env.CLIENT_URL || 'http://localhost:3000',
-  credentials: true,
+  origin: "*",
 }));
-
 // ─── Routes ───────────────────────────────────────────────────────────────────
 
 app.use('/api/auth',     require('./routes/auth'));
