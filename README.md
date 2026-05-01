@@ -275,6 +275,4 @@ Set `REACT_APP_API_URL` in Netlify's environment variables.
 
 ---
 
-## License
 
-MIT © 2024 TeamTask
