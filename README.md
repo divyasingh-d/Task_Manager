@@ -1,11 +1,16 @@
 # TeamTask — MERN Team Task Management App
 
+## 🚀 Live Demo
+
+👉 https://team-task-manager-jet.vercel.app
+
+---
+
 A full-stack collaborative task management application built with MongoDB, Express, React, and Node.js. Supports JWT authentication, role-based access control, project management, and a real-time dashboard.
 
 ---
 
 ## Features
-
 - **JWT Authentication** — Secure signup/login with bcrypt password hashing
 - **Projects** — Create projects; creator becomes admin automatically
 - **Role-Based Access** — Admins manage all tasks & members; members update only assigned tasks
