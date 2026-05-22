@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TeamTask — MERN Team Task Management App
 
 ## 🚀 Live Demo
@@ -281,3 +282,6 @@ Set `REACT_APP_API_URL` in Netlify's environment variables.
 ---
 
 
+=======
+# Task_Manager
+>>>>>>> 0847614d77a58dcf6eabe0e84b39ae155d9c2711
