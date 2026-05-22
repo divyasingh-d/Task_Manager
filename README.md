@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TeamTask — MERN Team Task Management App
 
 ## 🚀 Live Demo
